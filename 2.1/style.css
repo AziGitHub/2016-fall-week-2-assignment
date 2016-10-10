@@ -9,3 +9,14 @@ body{
     font-size:16px;
     font-family:Helvetica,Arial,sans-serif;
 }
+.content{
+	color:blue;
+}
+.content p{font-family:Georgia;
+}
+.sidebar{
+	color:red;
+}
+.sidebar p{font-family:Georgia;
+
+}
