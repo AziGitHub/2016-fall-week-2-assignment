@@ -7,16 +7,11 @@ html,body,h1,h2,h3,h4,p,a,ul,li,div{
 /* Global styles */
 body{
     font-size:16px;
-    font-family:Helvetica,Arial,sans-serif;
+    font-family:Helvetica;
 }
 .content{
 	color:blue;
 }
-.content p{font-family:Georgia;
-}
 .sidebar{
 	color:red;
-}
-.sidebar p{font-family:Georgia;
-
 }
